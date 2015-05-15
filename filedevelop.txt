@@ -1,5 +1,7 @@
 This is the start of line generator
-Line #1
+Line #1 modifying.
+#1.1
+#1.2
 Line #2
 Line #3
 Line #4
